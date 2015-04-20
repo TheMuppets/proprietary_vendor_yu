@@ -52,16 +52,16 @@ PRODUCT_COPY_FILES += \
     vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov2680_5987fhq_default_video.so:system/vendor/lib/libchromatix_ov2680_5987fhq_default_video.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov2680_5987fhq_preview.so:system/vendor/lib/libchromatix_ov2680_5987fhq_preview.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov2680_5987fhq_snapshot.so:system/vendor/lib/libchromatix_ov2680_5987fhq_snapshot.so \
-    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_common.so:system/vendor/lib/libchromatix_ov5670_q5v41b_common.so \
-    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_default_video.so:system/vendor/lib/libchromatix_ov5670_q5v41b_default_video.so \
-    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_hfr_120fps.so:system/vendor/lib/libchromatix_ov5670_q5v41b_hfr_120fps.so \
-    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_hfr_60fps.so:system/vendor/lib/libchromatix_ov5670_q5v41b_hfr_60fps.so \
-    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_hfr_90fps.so:system/vendor/lib/libchromatix_ov5670_q5v41b_hfr_90fps.so \
-    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_liveshot.so:system/vendor/lib/libchromatix_ov5670_q5v41b_liveshot.so \
-    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_preview.so:system/vendor/lib/libchromatix_ov5670_q5v41b_preview.so \
-    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_snapshot.so:system/vendor/lib/libchromatix_ov5670_q5v41b_snapshot.so \
-    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_video_hd.so:system/vendor/lib/libchromatix_ov5670_q5v41b_video_hd.so \
-    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_zsl.so:system/vendor/lib/libchromatix_ov5670_q5v41b_zsl.so \
+    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_common.so:system/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_common.so \
+    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_default_video.so:system/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_default_video.so \
+    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_hfr_120fps.so:system/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_hfr_120fps.so \
+    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_hfr_60fps.so:system/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_hfr_60fps.so \
+    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_hfr_90fps.so:system/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_hfr_90fps.so \
+    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_liveshot.so:system/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_liveshot.so \
+    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_preview.so:system/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_preview.so \
+    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_snapshot.so:system/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_snapshot.so \
+    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_video_hd.so:system/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_video_hd.so \
+    vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_zsl.so:system/vendor/lib/libchromatix_ov5670_q5v41b_t86519a1_zsl.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov8865_q8v18a_owt8a12_common.so:system/vendor/lib/libchromatix_ov8865_q8v18a_owt8a12_common.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov8865_q8v18a_owt8a12_default_video.so:system/vendor/lib/libchromatix_ov8865_q8v18a_owt8a12_default_video.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libchromatix_ov8865_q8v18a_owt8a12_hfr_120fps.so:system/vendor/lib/libchromatix_ov8865_q8v18a_owt8a12_hfr_120fps.so \
