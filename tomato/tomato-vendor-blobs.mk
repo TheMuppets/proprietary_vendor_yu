@@ -252,6 +252,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/yu/tomato/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/yu/tomato/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
+    vendor/yu/tomato/proprietary/lib64/libcnefeatureconfig.so:system/lib64/libcnefeatureconfig.so \
     vendor/yu/tomato/proprietary/lib64/librmnetctl.so:system/lib64/librmnetctl.so \
     vendor/yu/tomato/proprietary/vendor/lib64/libcneapiclient.so:system/vendor/lib64/libcneapiclient.so \
     vendor/yu/tomato/proprietary/vendor/lib64/libconfigdb.so:system/vendor/lib64/libconfigdb.so \
