@@ -273,6 +273,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/yu/tomato/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
     vendor/yu/tomato/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
+    vendor/yu/tomato/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/yu/tomato/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/yu/tomato/proprietary/vendor/lib64/libTimeService.so:system/vendor/lib64/libTimeService.so \
     vendor/yu/tomato/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so
