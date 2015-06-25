@@ -85,31 +85,18 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx135_snapshot.so:system/vendor/lib/libchromatix_imx135_snapshot.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx135_video_hd.so:system/vendor/lib/libchromatix_imx135_video_hd.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_1080p_ofilm.so:system/vendor/lib/libchromatix_imx214_1080p_ofilm.so \
-    vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_1080p_sunny.so:system/vendor/lib/libchromatix_imx214_1080p_sunny.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_24fps_snapshot_ofilm.so:system/vendor/lib/libchromatix_imx214_24fps_snapshot_ofilm.so \
-    vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_24fps_snapshot_sunny.so:system/vendor/lib/libchromatix_imx214_24fps_snapshot_sunny.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_30fps_preview_ofilm.so:system/vendor/lib/libchromatix_imx214_30fps_preview_ofilm.so \
-    vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_30fps_preview_sunny.so:system/vendor/lib/libchromatix_imx214_30fps_preview_sunny.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_30fps_snapshot_ofilm.so:system/vendor/lib/libchromatix_imx214_30fps_snapshot_ofilm.so \
-    vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_30fps_snapshot_sunny.so:system/vendor/lib/libchromatix_imx214_30fps_snapshot_sunny.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_480p_ofilm.so:system/vendor/lib/libchromatix_imx214_480p_ofilm.so \
-    vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_480p_sunny.so:system/vendor/lib/libchromatix_imx214_480p_sunny.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_4k_video_ofilm.so:system/vendor/lib/libchromatix_imx214_4k_video_ofilm.so \
-    vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_4k_video_sunny.so:system/vendor/lib/libchromatix_imx214_4k_video_sunny.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_720p_ofilm.so:system/vendor/lib/libchromatix_imx214_720p_ofilm.so \
-    vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_720p_sunny.so:system/vendor/lib/libchromatix_imx214_720p_sunny.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_common_ofilm.so:system/vendor/lib/libchromatix_imx214_common_ofilm.so \
-    vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_common_sunny.so:system/vendor/lib/libchromatix_imx214_common_sunny.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_hfr_120_ofilm.so:system/vendor/lib/libchromatix_imx214_hfr_120_ofilm.so \
-    vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_hfr_120_sunny.so:system/vendor/lib/libchromatix_imx214_hfr_120_sunny.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_hfr_60_ofilm.so:system/vendor/lib/libchromatix_imx214_hfr_60_ofilm.so \
-    vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_hfr_60_sunny.so:system/vendor/lib/libchromatix_imx214_hfr_60_sunny.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_hfr_90_ofilm.so:system/vendor/lib/libchromatix_imx214_hfr_90_ofilm.so \
-    vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_hfr_90_sunny.so:system/vendor/lib/libchromatix_imx214_hfr_90_sunny.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_liveshot_ofilm.so:system/vendor/lib/libchromatix_imx214_liveshot_ofilm.so \
-    vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_liveshot_sunny.so:system/vendor/lib/libchromatix_imx214_liveshot_sunny.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_preview_ofilm.so:system/vendor/lib/libchromatix_imx214_preview_ofilm.so \
-    vendor/yu/tomato/proprietary/vendor/lib/libchromatix_imx214_preview_sunny.so:system/vendor/lib/libchromatix_imx214_preview_sunny.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_ov5648_ofilm_common.so:system/vendor/lib/libchromatix_ov5648_ofilm_common.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_ov5648_ofilm_default_video.so:system/vendor/lib/libchromatix_ov5648_ofilm_default_video.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_ov5648_ofilm_liveshot.so:system/vendor/lib/libchromatix_ov5648_ofilm_liveshot.so \
