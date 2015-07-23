@@ -35,7 +35,6 @@ PRODUCT_PACKAGES += \
     libloc_ds_api
 
 PRODUCT_PACKAGES += \
-    libHevcSwDecoder \
     libtime_genoff
 
 $(call inherit-product, vendor/yu/tomato/tomato-vendor-blobs.mk)
