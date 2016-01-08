@@ -50,4 +50,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libwpa_qmi_eap_proxy
 
+PRODUCT_PACKAGES += \
+    pp_calib_data_dual_0_sharp_cmd_mode_dsi_panel.xml
+
 $(call inherit-product, vendor/yu/sambar/sambar-vendor-blobs.mk)
