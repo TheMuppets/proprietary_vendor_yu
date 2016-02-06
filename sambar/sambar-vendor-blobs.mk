@@ -60,7 +60,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/sambar/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/yu/sambar/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/yu/sambar/proprietary/vendor/lib/libFlacSwDec.so:system/vendor/lib/libFlacSwDec.so \
-    vendor/yu/sambar/proprietary/vendor/lib/libsrsprocessing.so:system/vendor/lib/libsrsprocessing.so \
     vendor/yu/sambar/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/yu/sambar/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/yu/sambar/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \

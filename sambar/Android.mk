@@ -156,18 +156,6 @@ LOCAL_PROPRIETARY_MODULE := true
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := libsrsprocessing
-LOCAL_MODULE_OWNER := yu
-LOCAL_SRC_FILES := proprietary/vendor/lib/libsrsprocessing.so
-LOCAL_MODULE_TAGS := optional
-LOCAL_MODULE_SUFFIX := .so
-LOCAL_MODULE_CLASS := SHARED_LIBRARIES
-LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR_SHARED_LIBRARIES)
-LOCAL_MULTILIB := 32
-LOCAL_PROPRIETARY_MODULE := true
-include $(BUILD_PREBUILT)
-
-include $(CLEAR_VARS)
 LOCAL_MODULE := libqmi
 LOCAL_MODULE_OWNER := yu
 LOCAL_SRC_FILES_64 := proprietary/vendor/lib64/libqmi.so
@@ -336,6 +324,18 @@ LOCAL_MODULE       := pp_calib_data_dual_0_sharp_cmd_mode_dsi_panel.xml
 LOCAL_MODULE_TAGS  := optional
 LOCAL_MODULE_CLASS := ETC
 LOCAL_SRC_FILES    := proprietary/etc/pp_calib_data_dual_0_sharp_cmd_mode_dsi_panel.xml
+include $(BUILD_PREBUILT)
+
+include $(CLEAR_VARS)
+LOCAL_MODULE := libsrsprocessing
+LOCAL_MODULE_OWNER := yu
+LOCAL_SRC_FILES := proprietary/vendor/lib/libsrsprocessing.so
+LOCAL_MODULE_TAGS := optional
+LOCAL_MODULE_SUFFIX := .so
+LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR_SHARED_LIBRARIES)
+LOCAL_MULTILIB := 32
+LOCAL_PROPRIETARY_MODULE := true
 include $(BUILD_PREBUILT)
 
 endif #($(TARGET_DEVICE),sambar)
