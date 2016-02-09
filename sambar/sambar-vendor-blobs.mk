@@ -137,7 +137,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/sambar/proprietary/vendor/lib/libmmcamera_ppbase_module.so:system/vendor/lib/libmmcamera_ppbase_module.so \
     vendor/yu/sambar/proprietary/vendor/lib/libmmcamera_tintless_algo.so:system/vendor/lib/libmmcamera_tintless_algo.so \
     vendor/yu/sambar/proprietary/vendor/lib/libmmcamera_tintless_bg_pca_algo.so:system/vendor/lib/libmmcamera_tintless_bg_pca_algo.so \
-    vendor/yu/sambar/proprietary/vendor/lib/libmmcamera_tuning.so:system/vendor/lib/libmmcamera_tuning.so \
     vendor/yu/sambar/proprietary/vendor/lib/libmmcamera_vpu_module.so:system/vendor/lib/libmmcamera_vpu_module.so \
     vendor/yu/sambar/proprietary/vendor/lib/libmmipl.so:system/vendor/lib/libmmipl.so \
     vendor/yu/sambar/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
