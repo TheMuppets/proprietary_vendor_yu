@@ -150,6 +150,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/jalebi/proprietary/vendor/lib/liblqe.so:system/vendor/lib/liblqe.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
+    vendor/yu/jalebi/proprietary/vendor/lib/libmm-abl.so:system/vendor/lib/libmm-abl.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libmm-als.so:system/vendor/lib/libmm-als.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libmmcamera2_c2d_module.so:system/vendor/lib/libmmcamera2_c2d_module.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libmmcamera2_cpp_module.so:system/vendor/lib/libmmcamera2_cpp_module.so \
@@ -176,6 +177,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/jalebi/proprietary/vendor/lib/libmmcamera_tintless_bg_pca_algo.so:system/vendor/lib/libmmcamera_tintless_bg_pca_algo.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libmmcamera_wavelet_lib.so:system/vendor/lib/libmmcamera_wavelet_lib.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
+    vendor/yu/jalebi/proprietary/vendor/lib/libmm-disp-apis.so:system/vendor/lib/libmm-disp-apis.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libmmipl.so:system/vendor/lib/libmmipl.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
     vendor/yu/jalebi/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
@@ -235,8 +237,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libloc_api_v02 \
     libloc_ds_api \
-    libmm-abl \
-    libmm-disp-apis \
     libtime_genoff \
     shutdownlistener \
     TimeService \
