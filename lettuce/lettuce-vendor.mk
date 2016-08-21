@@ -70,7 +70,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/lettuce/proprietary/lib64/libwcnss_qmi.so:system/lib64/libwcnss_qmi.so \
     vendor/yu/lettuce/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/yu/lettuce/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
-    vendor/yu/lettuce/proprietary/lib/libwcnss_qmi.so:system/lib/libwcnss_qmi.so \
     vendor/yu/lettuce/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/yu/lettuce/proprietary/vendor/bin/slim_daemon:system/vendor/bin/slim_daemon \
     vendor/yu/lettuce/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
@@ -128,6 +127,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/lettuce/proprietary/vendor/lib64/liblqe.so:system/vendor/lib64/liblqe.so \
     vendor/yu/lettuce/proprietary/vendor/lib64/libmdmdetect.so:system/vendor/lib64/libmdmdetect.so \
     vendor/yu/lettuce/proprietary/vendor/lib64/libmm-abl-oem.so:system/vendor/lib64/libmm-abl-oem.so \
+    vendor/yu/lettuce/proprietary/vendor/lib64/libmm-abl.so:system/vendor/lib64/libmm-abl.so \
     vendor/yu/lettuce/proprietary/vendor/lib64/libnetmgr.so:system/vendor/lib64/libnetmgr.so \
     vendor/yu/lettuce/proprietary/vendor/lib64/libNimsWrap.so:system/vendor/lib64/libNimsWrap.so \
     vendor/yu/lettuce/proprietary/vendor/lib64/libOpenCL.so:system/vendor/lib64/libOpenCL.so \
@@ -328,7 +328,6 @@ PRODUCT_PACKAGES += \
     libloc_api_v02 \
     libloc_ds_api \
     libtime_genoff \
-    libmm-abl \
     shutdownlistener \
     TimeService \
     CNEService \
