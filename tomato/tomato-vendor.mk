@@ -125,6 +125,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/vendor/lib64/liblqe.so:system/vendor/lib64/liblqe.so \
     vendor/yu/tomato/proprietary/vendor/lib64/libmdmdetect.so:system/vendor/lib64/libmdmdetect.so \
     vendor/yu/tomato/proprietary/vendor/lib64/libmm-abl-oem.so:system/vendor/lib64/libmm-abl-oem.so \
+    vendor/yu/tomato/proprietary/vendor/lib64/libmm-abl.so:system/vendor/lib64/libmm-abl.so \
     vendor/yu/tomato/proprietary/vendor/lib64/libnetmgr.so:system/vendor/lib64/libnetmgr.so \
     vendor/yu/tomato/proprietary/vendor/lib64/libNimsWrap.so:system/vendor/lib64/libNimsWrap.so \
     vendor/yu/tomato/proprietary/vendor/lib64/libOpenCL.so:system/vendor/lib64/libOpenCL.so \
@@ -324,7 +325,6 @@ PRODUCT_PACKAGES += \
     libloc_api_v02 \
     libloc_ds_api \
     libtime_genoff \
-    libmm-abl \
     shutdownlistener \
     TimeService \
     CNEService \
