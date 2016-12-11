@@ -303,6 +303,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/lettuce/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
+    vendor/yu/lettuce/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/yu/lettuce/proprietary/vendor/lib/libquipc_os_api.so:system/vendor/lib/libquipc_os_api.so \
     vendor/yu/lettuce/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
     vendor/yu/lettuce/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
