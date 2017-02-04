@@ -1,4 +1,5 @@
-# Copyright (C) 2016 The CyanogenMod Project
+# Copyright (C) 2015-2016 The CyanogenMod Project
+# Copyright (C) 2017 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -36,7 +37,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/yu/tomato/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/yu/tomato/proprietary/bin/radish:system/bin/radish \
-    vendor/yu/tomato/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/yu/tomato/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/yu/tomato/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/yu/tomato/proprietary/etc/firmware/a420_pfp.fw:system/etc/firmware/a420_pfp.fw \
