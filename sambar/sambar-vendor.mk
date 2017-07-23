@@ -1,4 +1,5 @@
 # Copyright (C) 2016 The CyanogenMod Project
+# Copyright (C) 2017 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -90,7 +91,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/sambar/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/yu/sambar/proprietary/lib64/hw/sensors.msm8994.so:system/lib64/hw/sensors.msm8994.so \
     vendor/yu/sambar/proprietary/lib64/libyasalgo.so:system/lib64/libyasalgo.so \
-    vendor/yu/sambar/proprietary/lib/modules/core_ctl.ko:system/lib/modules/core_ctl.ko \
     vendor/yu/sambar/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/yu/sambar/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/yu/sambar/proprietary/vendor/lib64/egl/eglSubDriverAndroid.so:system/vendor/lib64/egl/eglSubDriverAndroid.so \
