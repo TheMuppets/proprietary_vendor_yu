@@ -39,8 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/sambar/proprietary/lib64/libslcryption.so:system/lib64/libslcryption.so \
     vendor/yu/sambar/proprietary/lib64/libslos.so:system/lib64/libslos.so \
     vendor/yu/sambar/proprietary/lib64/libsysparm.so:system/lib64/libsysparm.so \
-    vendor/yu/sambar/proprietary/lib64/libtfa9887.so:system/lib64/libtfa9887.so \
-    vendor/yu/sambar/proprietary/vendor/lib64/libjni_livedisplay.so:system/vendor/lib64/libjni_livedisplay.so
+    vendor/yu/sambar/proprietary/lib64/libtfa9887.so:system/lib64/libtfa9887.so
 
 PRODUCT_PACKAGES += \
     libsrsprocessing \
