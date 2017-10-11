@@ -60,7 +60,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/vendor/lib/egl/libRBGLESv1_CM_adreno.so:system/vendor/lib/egl/libRBGLESv1_CM_adreno.so \
     vendor/yu/tomato/proprietary/vendor/lib/egl/libRBGLESv2_adreno.so:system/vendor/lib/egl/libRBGLESv2_adreno.so \
     vendor/yu/tomato/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
-    vendor/yu/tomato/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/yu/tomato/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/yu/tomato/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/yu/tomato/proprietary/vendor/lib/libFlacSwDec.so:system/vendor/lib/libFlacSwDec.so \
@@ -122,14 +121,10 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/yu/tomato/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/yu/tomato/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
-    vendor/yu/tomato/proprietary/vendor/lib/libflp.so:system/vendor/lib/libflp.so \
-    vendor/yu/tomato/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/yu/tomato/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
     vendor/yu/tomato/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
-    vendor/yu/tomato/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     vendor/yu/tomato/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/yu/tomato/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
-    vendor/yu/tomato/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
     vendor/yu/tomato/proprietary/vendor/lib/libllvm-glnext.so:system/vendor/lib/libllvm-glnext.so \
     vendor/yu/tomato/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
     vendor/yu/tomato/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
