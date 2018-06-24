@@ -17,7 +17,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/yu/jalebi/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
-    vendor/yu/jalebi/proprietary/vendor/bin/btnvtool:system/vendor/bin/btnvtool \
     vendor/yu/jalebi/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
     vendor/yu/jalebi/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
     vendor/yu/jalebi/proprietary/vendor/bin/mm-pp-daemon:system/vendor/bin/mm-pp-daemon \
