@@ -1,5 +1,5 @@
 # Copyright (C) 2015-2016 The CyanogenMod Project
-# Copyright (C) 2017-2018 The LineageOS Project
+# Copyright (C) 2017-2019 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -29,9 +29,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/lettuce/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
     vendor/yu/lettuce/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
     vendor/yu/lettuce/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw \
-    vendor/yu/lettuce/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
-    vendor/yu/lettuce/proprietary/vendor/firmware/cpp_firmware_v1_1_6.fw:system/vendor/firmware/cpp_firmware_v1_1_6.fw \
-    vendor/yu/lettuce/proprietary/vendor/firmware/cpp_firmware_v1_2_0.fw:system/vendor/firmware/cpp_firmware_v1_2_0.fw \
     vendor/yu/lettuce/proprietary/vendor/firmware/cpp_firmware_v1_4_0.fw:system/vendor/firmware/cpp_firmware_v1_4_0.fw \
     vendor/yu/lettuce/proprietary/vendor/firmware/venus.b00:system/vendor/firmware/venus.b00 \
     vendor/yu/lettuce/proprietary/vendor/firmware/venus.b01:system/vendor/firmware/venus.b01 \
